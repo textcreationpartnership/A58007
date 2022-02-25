@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. de Ryck's famous collection of paintings, by the best masters Viz. Raphael de Urbin. Rubens. De Voss. Antoni Moro, &amp;c. With several of his own originals. Will be sold by auction, on Tuesday, the 9th of this instant December, at the east-end of Exeter-Exchange, above stairs: the sale beginning at four of the clock in the afternoon. The conditions as usual, the paintings to be fetch'd away within three days after the sale, the buyer paying porterage.</title>
+            <author>Ryck de, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58007</idno>
+            <idno type="STC">Wing R2416</idno>
+            <idno type="STC">ESTC R223724</idno>
+            <idno type="EEBO-CITATION">99834009</idno>
+            <idno type="PROQUEST">99834009</idno>
+            <idno type="VID">38488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58007)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38488)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1839:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. de Ryck's famous collection of paintings, by the best masters Viz. Raphael de Urbin. Rubens. De Voss. Antoni Moro, &amp;c. With several of his own originals. Will be sold by auction, on Tuesday, the 9th of this instant December, at the east-end of Exeter-Exchange, above stairs: the sale beginning at four of the clock in the afternoon. The conditions as usual, the paintings to be fetch'd away within three days after the sale, the buyer paying porterage.</title>
+                  <author>Ryck de, Mr.</author>
+               </titleStmt>
+               <extent>[1], 3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Catalogues are distributed gratis, at Mr. Gilliflowers in Westminster-Hall: Mr. Notts in the Pall Mall: Mr. Welds at the Crown between the two Temple-Gates in Fleetstreet: Mr. Bennets at the Half Moon in St. Pauls Churchyard: Mr. Manships at the Black Bull in Cornhill, booksellers; and at the place of sale,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38488:1"/>
+            <!-- PDF PAGE 36 -->
+            <pb facs="tcp:38488:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 36 -->
+            <p>Mr. De RYCK'S FAMOUS COLLECTION OF PAINTINGS, By the Beſt MASTERS. <hi>VIZ.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Raphael de <g ref="char:V">Ʋ</g>rbin.</hi>
+               </item>
+               <item>
+                  <hi>Rubens.</hi>
+               </item>
+               <item>
+                  <hi>De Voſs.</hi>
+               </item>
+               <item>
+                  <hi>Antoni Moro,</hi> &amp;c.</item>
+            </list>
+            <p>With ſeveral of his own ORIGINALS.</p>
+            <p>Will be ſold by AUCTION, on <hi>Tueſday,</hi> the 9th of this inſtant <hi>December,</hi> at the Eaſt-end of <hi>Exeter-Exchange,</hi> above Stairs: The Sale beginning at Four of the Clock in the After<g ref="char:EOLhyphen"/>noon.</p>
+            <p>The Conditions as uſual, the Paintings to be fetch'd away within three days after the Sale, the Buyer paying Porterage.</p>
+            <p>Catalogues are deſtributed <hi>Gratis,</hi> at Mr. <hi>Gilliflowers</hi> in <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter-Hall:</hi> Mr. <hi>Notts</hi> in the <hi>Pall-Mall:</hi> Mr. <hi>Welds</hi> at the <hi>Crown</hi> between the two <hi>Temple-Gates</hi> in <hi>Fleeiſtreet:</hi> Mr. <hi>Bennets</hi> at the <hi>Half Moon</hi> in St. <hi>Pauls</hi> Churchyard: Mr. <hi>Manſhips</hi> at the <hi>Black Bull</hi> in <hi>Cornhill,</hi> Bookſellers; and at the Place of Sale.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_paintings">
+            <pb n="1" facs="tcp:38488:2"/>
+            <!-- PDF PAGE 37 -->
+            <head>Paintings, Limnings, <hi>&amp;c.</hi>
+            </head>
+            <list>
+               <item>1 A Womans Head in a black frame</item>
+               <item>2 a Naked <hi>Diana</hi>
+               </item>
+               <item>3 a Deaths Head and Watch</item>
+               <item>4 a Landskip</item>
+               <item>5 a Pidgeon and a Mackarel</item>
+               <item>6 a large piece of <hi>Lot</hi> and his Daughters</item>
+               <item>7 a Man and a Woman playing</item>
+               <item>8 a Landskip</item>
+               <item>9 an Antique Head</item>
+               <item>10 <hi>Cain</hi> and <hi>Abel</hi>
+               </item>
+               <item>11 a Frier and his Miſtriſs</item>
+               <item>12 a Squiril climbing up a Tree</item>
+               <item>13 an Amorous piece</item>
+               <item>14 a Fruit-piece</item>
+               <item>15 <hi>Orpheus</hi> taking his Wife out of Hell; a Drawing, after <hi>Carrats</hi>
+               </item>
+               <item>16 a Flower-piece</item>
+               <item>17 a Landskip with <hi>Charon</hi> the Ferryman</item>
+               <item>18 a large piece of Shepherds after <hi>Baſſan,</hi> by a good M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>19 a Ladies Head painted after the life</item>
+               <item>20 a Fruit-piece</item>
+               <item>21 a large Original Landskip</item>
+               <item>22 Prudence very ſtrongly painted, an Original</item>
+               <item>23 a Landskip with Satyrs ſtealing Nymphs</item>
+               <item>24 <hi>Pandora</hi> very ſtrongly painted</item>
+               <item>25 <hi>Venus</hi> and <hi>Aeneas</hi> an Original sketch</item>
+               <item>26 <hi>Silenus</hi> in little, Idem</item>
+               <item>27 Lady <hi>Plimouth</hi> in little, very well painted</item>
+               <item>28 a piece of Birds well painted by a good maſter</item>
+               <item>29 <hi>Mary Magdalen</hi> by an Italian, very finely painted</item>
+               <item>30 a Lady in ſmall, very well done, an original</item>
+               <item>31 <hi>Pomona</hi> and <hi>Jupiter</hi> in two colours, an original</item>
+               <item>32 a ſleeping <hi>Venus,</hi> Idem</item>
+               <item>33 an Old mans Head of <hi>De Ryck,</hi> painted after the life</item>
+               <item>34 <hi>Argos</hi> and <hi>Mercurius,</hi> an Original, in little, well painted</item>
+               <item>35 <hi>Moſes,</hi> Ditto</item>
+               <item>36 a sketch, the Judgment of <hi>Paris</hi> ditto</item>
+               <item>37 The Holy Family</item>
+               <item>38 <hi>Andromeda</hi> after <hi>Carats</hi> very well painted</item>
+               <item>39 a Ladies Head after the life, an original</item>
+               <item>40 Dogs as big as the life, by a good maſter</item>
+               <item>41 <hi>Venus</hi> and <hi>Cupid</hi> aſleep, in little, very well painted</item>
+               <item>42 a Landskip with Satyrs, flying away with Nymphs</item>
+               <item>43 <hi>Cain</hi> and <hi>Abel</hi> by Mr. <hi>De Ryck</hi>
+               </item>
+               <item>44 Lord <hi>Dartmouths</hi> Mother curiouſly painted</item>
+               <item>45 a piece of Flowers by <hi>Van Bury</hi>
+               </item>
+               <item>46 a Landskip by <hi>Devernet</hi>
+               </item>
+               <item>47 —another</item>
+               <item>48 a <hi>Capid</hi> in little of Mr. <hi>De Ryck</hi>
+               </item>
+               <pb n="2" facs="tcp:38488:2"/>
+               <!-- PDF PAGE 37 -->
+               <item>49 a Head of <hi>Van Dyck</hi>
+               </item>
+               <item>50 a very fine Horſe painted</item>
+               <item>51 a Woman dreſſing her ſelf</item>
+               <item>52 Lady <hi>Sunderland</hi> in a Shepherds habit, by a good maſter</item>
+               <item>53 The Earl of <hi>Cardigans</hi> Father neatly painted</item>
+               <item>54 an Inn with Gentlemen Drinking</item>
+               <item>55 an Evangeliſt Writing, by Mr. <hi>De Ryck</hi>
+               </item>
+               <item>56 <hi>Venus</hi> and <hi>Cupid</hi> well done</item>
+               <item>57 a Landskip with a ſleeping <hi>Venus</hi> curiouſly painted</item>
+               <item>58 <hi>Leda</hi> with a Swan, curiouſly painted</item>
+               <item>59 a Gentleman in Armour, well painted</item>
+               <item>60 a young Lady after the life, by Mr. <hi>De Ryck</hi>
+               </item>
+               <item>61 a Squiril well done</item>
+               <item>62 a Sea piece well done</item>
+               <item>63 a Charity of Mr. <hi>De Rycks,</hi> well painted</item>
+               <item>64 a <hi>Gallatea,</hi> Ditto</item>
+               <item>65 an Italian Crucifix curiouſly painted</item>
+               <item>66 Two Italian Women ſtronly painted after the life</item>
+               <item>67 Two Dutch Boors drinking and ſmoaking, well painted</item>
+               <item>68 <hi>Venus</hi> Head in little, by <hi>Van Dyck</hi>
+               </item>
+               <item>69 a Froſt-piece curiouſly painted</item>
+               <item>70 St. <hi>Sebaſtian</hi> by an Italian maſter</item>
+               <item>71 <hi>Lot</hi> and his Daughters, by a good maſter</item>
+               <item>72 a Boy playing upon a Flute</item>
+               <item>73 a Fruit-piece of <hi>Campidoglio</hi>
+               </item>
+               <item>74 <hi>Pandora</hi>'s Head by <hi>De Ryck</hi>
+               </item>
+               <item>75 a ſmall Landskip neatly painted</item>
+               <item>76 a sketch of <hi>De Ryck</hi> finely painted</item>
+               <item>77 an Amorous piece well done</item>
+               <item>78 <hi>Suſannah</hi> with the two Elders, very well painted</item>
+               <item>79 <hi>Bacchus</hi> and <hi>Ceres</hi> ſtrongly painted, by <hi>Houſman</hi>
+               </item>
+               <item>80 a piece of Ruins on board, by an Italian maſter</item>
+               <item>81 a Melancholly piece of Mr. <hi>De Ryck,</hi> after the life</item>
+               <item>82 The Tomb of <hi>Phaeton,</hi> with his Siſters bewailing his Death</item>
+               <item>83 <hi>Venus</hi> and <hi>Adonis,</hi> a very fine deſign</item>
+               <item>84 <hi>M. Magdalen</hi> in an oval frame, done after the Ital. way</item>
+               <item>85 <hi>Cupid</hi> kiſſing <hi>Venus,</hi> finely painted</item>
+               <item>86 <hi>Lot</hi> and his Daughters, a very fine piece</item>
+               <item>87 a piece of Hunting neatly painted</item>
+               <item>88 a Window with a Comb, <hi>&amp;c.</hi> finely painted</item>
+               <item>89 a Swan very well painted</item>
+               <item>90 an Amorous piece well done</item>
+               <item>91 <hi>Leda</hi> with a Swan, by <hi>De Ryck,</hi> well done</item>
+               <item>92 <hi>Apollo</hi> of ditto, curiouſly painted</item>
+               <item>93 a Landskip with Naked Nymphs, curiouſly painted</item>
+               <item>94 Two <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atchmen ſmoaking and drinking, an original, by Mr. <hi>De Ryck</hi>
+               </item>
+               <item>95 a Child repreſenting the Vanity of the Word, an original, by a great maſter</item>
+               <item>96 a large Landskip with Hunting, by a Dutch maſter</item>
+               <item>97 a Blackamoor of <hi>Rubens,</hi> curiouſly painted</item>
+               <item>98 <hi>Lucretia</hi> after the life, by Mr. <hi>De Ryck</hi>
+               </item>
+               <pb n="3" facs="tcp:38488:3"/>
+               <!-- PDF PAGE 38 -->
+               <item>99 a curious piece with Peacocks, of <hi>Snyders</hi>
+               </item>
+               <item>100 <hi>Marſias</hi> playing upon his Pipe with Nymphs</item>
+               <item>101 a piece of Fruit with a Blackamoor</item>
+               <item>102 an half length Lady of <hi>Antony Moro</hi>
+               </item>
+               <item>103 <hi>Cupid</hi> waſhing <hi>Venus</hi> feet, a curious large piece</item>
+               <item>104 <hi>Mary Magdalen</hi> after the life, curiouſly painted</item>
+               <item>105 a <hi>Flora</hi> after the life, ditto</item>
+               <item>106 <hi>Orpheus</hi> playing on his Pipe, and the beaſts about him, an antique piece, cu<g ref="char:EOLhyphen"/>riouſly done in Water-colours</item>
+               <item>107 a Fruit piece finely painted by <hi>Verelſt</hi>
+               </item>
+               <item>108 a Lady playing upon the Lute, extraordinarily well painted, by Mr. <hi>De Ryck</hi>
+               </item>
+               <item>109 The Tomb of <hi>Phaeton,</hi> ditto</item>
+               <item>110 <hi>Lot</hi> and his Daughters, ditto</item>
+               <item>111 <hi>Venus</hi> and <hi>Cupid</hi> in ſmall</item>
+               <item>112 a Gentlemans picture, a half length, by <hi>Antony Moro</hi>
+               </item>
+               <item>113 an Amorous piece, an original</item>
+               <item>114 a piece of Beaſts curiouſly painted, by <hi>Snyders</hi>
+               </item>
+               <item>115 Two Children playing, very well painted</item>
+               <item>116 <hi>Medea,</hi> a half length, ſtrongly painted, by <hi>De Ryck</hi>
+               </item>
+               <item>117 a curious sketch, by a great maſter</item>
+               <item>118 a Mans Head by a good Maſter</item>
+               <item>119 <hi>Judith</hi> and <hi>Holofernes,</hi> well done, by Mr. <hi>De Ryck</hi>
+               </item>
+               <item>120 <hi>Sampſon</hi> and <hi>Dalilah,</hi> ditto</item>
+               <item>121 a large piece with Birds, finely done</item>
+               <item>122 <hi>Venus</hi> and <hi>Adonis,</hi> well painted, by Mr. <hi>De Ryck</hi>
+               </item>
+               <item>123 a Fruit piece curiouſly painted</item>
+               <item>124 a very fine Landskip, with <hi>Diana</hi> ſleeping, and other Nymphs, by <hi>De Ryck</hi>
+               </item>
+               <item>125 <hi>Mary Magdalen</hi> waſhing Chriſts feet, an original piece of <hi>Petro Paul Rubens,</hi> about 10 foot long, 8 foot high</item>
+               <item>126 a hunting of Foxes, a curious piece of <hi>De Voſs,</hi> being abouts 10 foot long, 8 foot high, both undoubted Originals</item>
+               <item>127 a Landskip of Mr. <hi>Hondius</hi>
+               </item>
+               <item>128 a Fruit piece finely painted</item>
+            </list>
+            <pb facs="tcp:38488:3"/>
+            <!-- PDF PAGE 38 -->
+         </div>
+      </body>
+   </text>
+</TEI>
